@@ -9,6 +9,7 @@
  
  This is the link to the live project.
  http://localhost:3001/
+ on Github https://maritzadiaz77.github.io/aTechBlogg/ 
  
  ## Usage
  npm run start
