@@ -13,7 +13,7 @@ const sequelize = process.env.JAWSDB_URL
       process.env.DB_PASSWORD,
       {
         host: "localhost",
-        dialect: "mysql",
+        dialect: "postgres",
         dialectOptions: {
           decimalNumbers: true,
         },
